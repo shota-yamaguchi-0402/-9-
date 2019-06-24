@@ -70,4 +70,9 @@ main{
    main {
     width: 90%;
    }
+   .middle {
+    margin: 20px auto;
+   }
+
+   }
 }
